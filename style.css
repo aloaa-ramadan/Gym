@@ -1,0 +1,207 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+  color: #333;
+}
+
+/* index.html */
+header {
+  background-color: #111;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav li {
+ display: inline;
+  margin: 15px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #e91e63;
+  text-decoration: underline;
+}
+
+/* About Section */
+.about-section {
+  display: flex;
+  gap: 30px;
+  padding: 40px;
+  background: white;
+  border-radius: 8px;
+  margin: 20px;
+}
+
+.about-text {
+  max-width: 580px;
+}
+
+.about-text h2 {
+  color: #e91e63;
+  margin-bottom: 15px;
+}
+
+.about-text p {
+  margin-bottom: 20px;
+}
+
+.about-image {
+  max-width: 580px; 
+}
+
+
+.about-image img {
+ width: 600px;
+  border-radius: 10px;
+}
+
+/* Pricing Section */
+#pricing {
+  background: white;
+  margin: 20px;
+  padding: 30px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.pricing-cards {
+  display: flex;
+   gap: 20px;
+  justify-content: center;
+}
+
+.card {
+  background: #eee;
+  padding: 20px;
+  border-radius: 10px;
+  width: 150px;
+}
+
+.card:hover {
+  background: #e91e63;
+  color: white;
+ margin-top: 30px;
+ margin-bottom: 30px;
+}
+
+
+/* Contact Section */
+.contact-section {
+  display: flex;
+  align-items: center;
+ gap: 30px;
+  padding: 40px;
+  background: white;
+  border-radius: 8px;
+  margin: 20px;
+}
+
+.contact-text {
+  min-width: 580px;
+}
+
+.contact-image img {
+  width: 600px;
+  border-radius: 10px;
+}
+
+input, textarea, button ,form {
+  padding: 10px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-right: 50px;
+}
+
+button {
+  background: #e91e63;
+  color: white;
+  border: none;
+  margin: auto;
+  margin-top: 10px;
+}
+
+button:hover {
+  background: #d81b60;
+}
+
+/* Book Button */
+
+.book-btn {
+margin-left: 650px;
+margin-bottom: 10px;
+  font-size: 17px;
+}
+
+/* Footer */
+
+footer {
+  text-align: center;
+  background: #111;
+  color: white;
+  padding: 15px;
+}
+
+/*class.html*/
+
+table, th, td {
+    border: 2px solid #a3195e;
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+ padding-right: 60px;
+ border-radius: 10px;
+}
+
+
+.table h2{
+  text-align: center;
+  color: #333;
+}
+
+.table {
+    padding: 40px;
+  background: white;
+  margin: 50px;
+  padding: 30px;
+  border-radius: 10px;
+  
+}
+
+/*trainers.html*/
+.trainers{
+background: #f4f4f4;
+    padding: 25px;
+    border-radius: 10px;
+    max-width: 300px;
+    text-align: center;
+    margin:  auto;
+    margin-bottom: 40px;
+  
+}
+
+.trainer-card{
+   margin-bottom: 40px;
+}
+
+ .trainer-card:hover{
+  background: #7e1a3b;
+  color: white;
+border-radius: 5px;
+margin-top: 30px;
+margin-bottom: 30px;
+}
