@@ -44,17 +44,17 @@ then write:
 - [code .]  (it will open on vs code)
 ```
 
-```
+
 ## 🎥 Demo Video
 👉 [Watch Demo Video on Google Drive](https://drive.google.com/file/d/1x4DOjIYXEZkrQ9TVWb1gVkNtPqMo69Ut/preview)
-```
 
-```
+
+
 ## 🎥 Demo Video(you can watch directly here from github)
 <iframe src="https://drive.google.com/file/d/1x4DOjIYXEZkrQ9TVWb1gVkNtPqMo69Ut/preview" width="640" height="480" allow="autoplay"></iframe>
+
 ```
+🤝 Contribution
+Feel free to fork this repository and improve the design or add more features!
 
-
-`🤝 Contribution`
-
-`Feel free to fork this repository and improve the design or add more features!`
+```
