@@ -29,13 +29,13 @@ gym-project/
 
 🔑 How to Use
 Clone the repository(to get a copy of project on your local machine :
-- git clone https://github.com/aloaa-ramadan/Gym.git  (in your terminal window)
+-[ git clone https://github.com/aloaa-ramadan/Gym.git]  (in your terminal window)
 then wait until complete download then write:
-- cd Gym
+- [cd Gym]
 then write:
--dir (to show you files)
+-[dir] (to show you files)
 then write:
-- code .  (it will open on vs code)
+- [code .]  (it will open on vs code)
 
 
 ## 🎥 Demo Video
