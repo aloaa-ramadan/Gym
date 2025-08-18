@@ -1,22 +1,26 @@
-🏋‍♂ Gym Website Project
+`🏋‍♂ Gym Website Project`
 
-📌 Overview
-
+`📌 Overview`
+```
 This is a Gym Website Project that includes Home,About,Contact,Trainers,Classes.
 The project was built using HTML, CSS, and JavaScript with a responsive design to provide a smooth user experience.
+```
 
-🚀 Features
+`🚀 Features`
+```
 Responsive homepage with modern design.
 Navigation bar to access different sections (Home, Plans, Trainers, Contact).
+```
+`🛠 Technologies Used`
 
-🛠 Technologies Used
-
+```
 HTML5
 CSS3
-JavaScript 
+JavaScript
+```
 
-📂 Project Structure
-
+`📂 Project Structure`
+```
 gym-project/
 │
 ├── index.html      # Main gym website
@@ -25,9 +29,11 @@ gym-project/
 ├── index.Trainers     # booking specefic couch
 ├── index.PricingPlan     # offers
 ├── style.css       # Styling file
-└── script.js       # JavaScript logic 
+└── script.js       # JavaScript logic
+```
 
-🔑 How to Use
+`🔑 How to Use`
+```
 Clone the repository(to get a copy of project on your local machine :
 -[ git clone https://github.com/aloaa-ramadan/Gym.git]  (in your terminal window)
 then wait until complete download then write:
@@ -36,15 +42,19 @@ then write:
 -[dir] (to show you files)
 then write:
 - [code .]  (it will open on vs code)
+```
 
-
+```
 ## 🎥 Demo Video
 👉 [Watch Demo Video on Google Drive](https://drive.google.com/file/d/1x4DOjIYXEZkrQ9TVWb1gVkNtPqMo69Ut/preview)
+```
 
+```
 ## 🎥 Demo Video(you can watch directly here from github)
 <iframe src="https://drive.google.com/file/d/1x4DOjIYXEZkrQ9TVWb1gVkNtPqMo69Ut/preview" width="640" height="480" allow="autoplay"></iframe>
+```
 
 
-🤝 Contribution
+`🤝 Contribution`
 
-Feel free to fork this repository and improve the design or add more features!
+`Feel free to fork this repository and improve the design or add more features!`
