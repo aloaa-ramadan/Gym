@@ -28,9 +28,14 @@ gym-project/
 └── script.js       # JavaScript logic 
 
 🔑 How to Use
-1. Clone the repository:
-
-git clone https://github.com/YourUsername/gym-project.git
+Clone the repository(to get a copy of project on your local machine :
+- git clone https://github.com/aloaa-ramadan/Gym.git  (in your terminal window)
+then wait until complete download then write:
+- cd Gym
+then write:
+-dir (to show you files)
+then write:
+- code .  (it will open on vs code)
 
 
 ## 🎥 Demo Video
