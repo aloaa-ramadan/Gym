@@ -39,7 +39,7 @@ then write:
 
 
 ## 🎥 Demo Video
-[https://drive.google.com/file/d/1x4DOjIYXEZkrQ9TVWb1gVkNtPqMo69Ut/view?usp=sharing](LINK_HERE)
+[https://drive.google.com/file/d/1x4DOjIYXEZkrQ9TVWb1gVkNtPqMo69Ut/preview](LINK_HERE)
 
 ## 🎥 Demo Video(you can watch directly here from github)
 <iframe src="https://drive.google.com/file/d/1x4DOjIYXEZkrQ9TVWb1gVkNtPqMo69Ut/preview" width="640" height="480" allow="autoplay"></iframe>
