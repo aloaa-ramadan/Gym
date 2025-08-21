@@ -55,6 +55,6 @@ then write:
 
 ```
 🤝 Contribution
-Feel free to fork this repository and improve the design or add more features!
+Thank to iti for this opportunity to make a first project in frontend by my own 🥰
 
 ```
