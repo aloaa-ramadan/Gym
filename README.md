@@ -58,3 +58,10 @@ then write:
 Thank to iti for this opportunity to make a first project in frontend by my own 🥰
 
 ```
+## Author
+
+👩‍💻 This project was created and developed by [Alaa Ayman Ramadan](https://www.linkedin.com/in/alaa-ramadan-89116232a).
+
+Feel free to connect with me on LinkedIn!
+
+
